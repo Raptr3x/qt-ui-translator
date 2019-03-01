@@ -31,7 +31,6 @@ def main():
     
     #replacing words with their translations
     for i in wordsZip:
-        print("replacing {} with {}".format(i[0], i[1]))
         file = file.replace(i[0], i[1])
 
     #creating a translated copy of original file
