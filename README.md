@@ -17,4 +17,4 @@ __[PyPI](https://pypi.org/project/ui-translator/)__
 #### Usage:
     `uitranslate fileName.ui to_language from_language`
     
-    This will create a copy fileNameTranslated.ui
+    _This will create a copy fileNameTranslated.ui_
