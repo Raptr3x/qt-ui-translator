@@ -1,5 +1,5 @@
 # qt-ui-translator
-Python module for translating .ui files
+Python module for translating Qt .ui files
 #### installation:
 
 __[PyPI](https://pypi.org/project/ui-translator/)__
