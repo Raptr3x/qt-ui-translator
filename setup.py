@@ -1,15 +1,15 @@
 from distutils.core import setup
 
 setup(
-  name = 'ui-translator',
-  packages = ['ui-translator'],
-  version = '0.2',
+  name = 'uiTranslator',
+  packages = ['uiTranslator'],
+  version = '0.6',
   license='MIT',
   description = 'Python module used for translating Qt .ui files between languages using Google Translate',
   author = 'Bogdan Caleta Ivkovic',
   author_email = 'bogdan.caleta@gmail.com',
   url = 'https://github.com/Raptr3x/qt-ui-translator',
-  download_url = 'https://github.com/Raptr3x/qt-ui-translator/archive/v_02.tar.gz',
+  download_url = 'https://github.com/Raptr3x/qt-ui-translator/archive/v_06.tar.gz',
   keywords = ['ui', 'ui translator', 'translate'],
   install_requires=['ptranslator'],
   classifiers=[
@@ -21,7 +21,7 @@ setup(
   ],
   entry_points={
           'console_scripts': [
-              'uitranslate = ui-translator.ui_translator:main'
+              'uitranslate = uiTranslator.uiTranslator:main'
           ]
   },
 )
