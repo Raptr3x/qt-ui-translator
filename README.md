@@ -2,15 +2,15 @@
 Python module for translating Qt .ui files
 #### installation:
 
-__[PyPI](https://pypi.org/project/ui-translator/)__
+__[PyPI](https://pypi.org/project/uiTranslator/)__
 
 * ##### Windows:
-    `pip install ui-translator`
+    `pip install uiTranslator`
     
     _Dont forget to add "<path_to_python>/Scripts" to PATH_
    
 * ##### Linux:
-    `sudo pip install ui-translator`
+    `sudo pip install uiTranslator`
     
     _Probably won't run unless you use `sudo` when installing_
 
